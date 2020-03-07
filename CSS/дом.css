@@ -1,5 +1,5 @@
 body{
-  background-color:#DBADFF;
+  background-color:#D3D3D3;
 }
 .s1 {
 	text-decoration: none;
@@ -31,9 +31,9 @@ body{
  margin-left: 120px;
 font-size: 20px;
 margin-top:50px;
-background-color:#FF9E73;
+background-color: #FFFFFF;
 border-radius: 20px;
-box-shadow: 5px 0px 15px 12px #F97032;
+box-shadow: 5px 0px 15px 12px #000000;
 text-indent: 0px;
 padding: 5px 0px 10px 8px;
 cursor:	pointer;
@@ -54,7 +54,7 @@ text-align:center;
 font-size:30px;
 }
 .s5{
-	background-color:#DBADFF;
+	background-color:#D3D3D3;
 	
 }
 .t1{
